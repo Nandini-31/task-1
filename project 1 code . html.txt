@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<style>
+ body{
+background-image:url('https://res.cloudinary.com/dtpgi0zck/image/upload/s--SsFGdDoP--/c_fill,h_580,w_860/v1/EducationHub/photos/ocean-waves.jpg');
+background-repeat:no repreat;
+background-size:cover;
+}
+</style>
+<a href="https://www.talentio.in/"target="_blank">click here</a>
+<u1>
+   <li>mango</li>
+   <li>grape</li>
+   <li>orange</li>
+   <li>pine apple</li>
+</u1>
+<ol>
+   <li>dog</li>
+   <li>rabbit</li>
+   <li>cat</li>
+   <li>monkey</li>
+</ol>
+</htm>
